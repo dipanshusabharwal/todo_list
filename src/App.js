@@ -48,6 +48,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="container mt-5">
+	<h1 className="mb-4 text-center">My Todo's</h1>
         <div className="input-group col-8 mx-auto">
           <input
             className="form-control border border-dark rounded-0"
